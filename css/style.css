@@ -36,6 +36,7 @@ header, .intro{
     margin: auto;
     display: block;
     overflow: hidden;
+    padding: 10px;
 }
 .product-image-background{
     background-color: #F1F1F1;
