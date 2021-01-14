@@ -1,0 +1,41 @@
+.top-font{
+    font-size: 40px;
+}
+.orange-text{
+    color: #FABE4C;
+}
+.darkblue-text{
+    color: #363958;
+}
+header, .intro{
+    background-color: #FFFBF0;
+}
+.button-highlight{
+    background-color: #A4BC46;
+    border: none;
+    border-radius: 10px;
+}
+.button-highlight:hover{
+    background-color: #859b2e;
+}
+.product-image{
+    width: 250px;
+    height:350px;
+    margin: auto;
+    display: block;
+    overflow: hidden;
+}
+.product-image-background{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    margin: 10px;
+}
+.product-background{
+    border: none;
+    border-radius: 10px;
+}
+.footer-background{
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+}
